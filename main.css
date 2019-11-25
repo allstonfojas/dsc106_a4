@@ -1,0 +1,22 @@
+#container2 {
+    min-width: 310px;
+    max-width: 1200px;
+    margin: 0 auto
+}
+
+#container3 {
+    min-width: 310px;
+    max-width: 1200px;
+    margin: 0 auto
+}
+
+.infogram-embed {
+    min-width: 310px;
+    max-width: 1200px;
+    margin: 0 auto
+}
+
+body {
+    background-color: #ece9e6;
+    color: #333;
+}
